@@ -162,4 +162,4 @@ plt.show()
 ## Result
 
 Thus, image segmentation is successfully performed using **Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding** techniques in OpenCV. 
-](https://github.com/Duraiarasan7/Detect-the-lines-using-Hough-Transform/blob/main/README.md)
+]
