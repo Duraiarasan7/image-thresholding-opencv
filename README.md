@@ -1,4 +1,4 @@
-# Image Segmentation Using Thresholding Techniques in OpenCV
+[# Image Segmentation Using Thresholding Techniques in OpenCV
 
 ## Aim
 
@@ -16,7 +16,7 @@ The program performs the following operations:
 - Jupyter Notebook / VS Code
 - OpenCV (cv2)
 - NumPy
-- Matplotlib
+- MatplotlibN
 
 ## Algorithm
 
@@ -162,3 +162,4 @@ plt.show()
 ## Result
 
 Thus, image segmentation is successfully performed using **Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding** techniques in OpenCV. 
+](https://github.com/Duraiarasan7/Detect-the-lines-using-Hough-Transform/blob/main/README.md)
