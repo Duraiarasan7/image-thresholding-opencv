@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-### Name: Kailash V
+### Name: DURAIARASAN M
 
-### Register No: 212224240067
+### Register No: 212224230071
 ```
 import cv2
 import numpy as np
